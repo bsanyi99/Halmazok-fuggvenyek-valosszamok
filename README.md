@@ -1,2 +1,1 @@
-#Vizsgatételek
-# Halmazok, függvények, valós számok 
+# Halmazok, függvények, valós számok - Vizsgatételek
