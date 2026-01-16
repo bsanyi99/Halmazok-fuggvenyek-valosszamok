@@ -1,3 +1,4 @@
+## 2.tétel 
 ## Rendezett elempár, két halmaz Descartes-szorzata; kapcsolat a tartalmazással és a műveletekkel. Reláció fogalma, jelölése.
 
 ### 1. Rendezett elempár
