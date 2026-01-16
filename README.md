@@ -1,1 +1,2 @@
-# Halmazok-f-ggv-nyek-val-s-sz-mok
+#Vizsgatételek
+# Halmazok, függvények, valós számok 
